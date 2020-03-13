@@ -17,3 +17,5 @@ block_size: face are devided into (block_size,block_size)
 lbp_r: lbp radius
 constant: Return constant key-frames or all
 N_frames: Number of key-frames to return if constant==True
+
+![difference measure vs frame number' graph](https://github.com/SuhailSaify/Key-Frame-Extraction/blob/master/Key_Frame_N_21.png)
