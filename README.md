@@ -7,8 +7,9 @@ from Key_Frames_0.2 import get_key_frames
 key_frames_index=get_key_frames_1(frame_images,show_plot=True,N=21,constant=True,N_frames=20)
 
 ```
-
-Function Parameter:    
+  
+    
+Function Parameters:    
 
 img_seq: Frames extracted from a video  
 show_plot: plot 'difference measure vs frame number' graph  
