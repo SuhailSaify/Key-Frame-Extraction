@@ -8,6 +8,8 @@ key_frames_index=get_key_frames_1(frame_images,show_plot=True,N=21,constant=True
 
 ```
 
+Function Parameter:    
+
 img_seq: Frames extracted from a video  
 show_plot: plot 'difference measure vs frame number' graph  
 N: Interval   
