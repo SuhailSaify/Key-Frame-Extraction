@@ -1,5 +1,4 @@
 # Key-Frame-Extraction
-This is python implentaion of the key frame extraction technique described here:
 
 Example :
 ```
