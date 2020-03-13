@@ -2,7 +2,7 @@
 
 Example :
 ```
-from Key_Frames_0.2 import get_key_frames
+from Key_Frames_0.2 import get_key_frames_1
 key_frames_index=get_key_frames_1(frame_images,show_plot=True,N=21,constant=True,N_frames=20)
 
 ```  
