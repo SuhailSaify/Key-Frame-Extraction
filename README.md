@@ -10,12 +10,12 @@ key_frames_index=get_key_frames_1(frame_images,show_plot=True,N=21,constant=True
   
     
 Function Parameters:    
-img_seq: Frames extracted from a video  
+img_seq: Numpy array containing frames extracted from a video  
 show_plot: plot 'difference measure vs frame number' graph  
 N: Interval   
 M: refer to paper  
 p_factor: refer to paper  
-block_size: face is devided into (block_size X block_size)  
+block_size: face is devided into (img_size/block_size X img_size/block_size)  
 lbp_r: lbp radius  
 constant: Return constant number of key-frames
 N_frames: Number of key-frames to return if constant==True
