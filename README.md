@@ -26,3 +26,9 @@ Index of key frames
   
 
 ![difference measure vs frame number' graph](https://github.com/SuhailSaify/Key-Frame-Extraction/blob/master/Key_Frame_N_21.png)
+  
+    
+      
+TODO:
+1. Vectorize more operations
+2. Use HOG Histogram for Feature-Difference-Analysis
