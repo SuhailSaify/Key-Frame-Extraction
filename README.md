@@ -21,7 +21,7 @@ constant: Return constant number of key-frames
 N_frames: Number of key-frames to return if constant==True
   
 
-Returns 
+Returns  
 Index of key frames    
   
 
