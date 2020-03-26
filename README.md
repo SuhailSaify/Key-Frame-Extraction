@@ -15,7 +15,7 @@ show_plot: plot 'difference measure vs frame number' graph
 N: Interval   
 M: refer to paper  
 p_factor: refer to paper  
-block_size: face is devided into (img_size/block_size X img_size/block_size)  
+block_size: Number of blocks for frame devision, frame is devided into (frame_size/block_size X frame_size/block_size)    
 lbp_r: lbp radius  
 constant: Return constant number of key-frames
 N_frames: Number of key-frames to return if constant==True
