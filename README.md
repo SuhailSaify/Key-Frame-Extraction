@@ -1,7 +1,7 @@
 # Key-Frame-Extraction From Video Sequence - Using Feature Difference Analysis
 
 Example :
-```
+```python
 from Key_Frames_0.2 import get_key_frames_1
 key_frames_index=get_key_frames_1(frame_images,show_plot=True,N=21,constant=True,N_frames=20)
 
